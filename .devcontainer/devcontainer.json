@@ -1,0 +1,10 @@
+{
+    "name": "test project",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "vscode",
+    "workspaceFolder": "/workspace",
+    "extensions": [
+        "amazonwebservices.aws-toolkit-vscode",
+        "ms-python.python"
+	]
+}
